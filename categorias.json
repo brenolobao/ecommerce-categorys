@@ -1,0 +1,52 @@
+{
+  "categorias": [
+    {
+      "nome": "Moda e Acessórios",
+      "subcategorias": ["Roupas masculinas", "Roupas femininas", "Roupas infantis", "Calçados", "Bolsas e mochilas", "Joias e bijuterias", "Relógios", "Óculos"]
+    },
+    {
+      "nome": "Eletrônicos e Tecnologia",
+      "subcategorias": ["Smartphones", "Acessórios para celular", "Computadores", "Notebooks", "Periféricos", "TVs", "Áudio", "Smartwatches", "Assistentes virtuais"]
+    },
+    {
+      "nome": "Casa e Decoração",
+      "subcategorias": ["Móveis", "Iluminação", "Utensílios de cozinha", "Decoração", "Cama", "Mesa", "Banho"]
+    },
+    {
+      "nome": "Beleza e Cuidados Pessoais",
+      "subcategorias": ["Maquiagem", "Perfumes", "Skincare", "Produtos para cabelo", "Barbearia", "Higiene pessoal"]
+    },
+    {
+      "nome": "Saúde e Bem-estar",
+      "subcategorias": ["Suplementos", "Equipamentos de academia", "Produtos naturais", "Terapias alternativas"]
+    },
+    {
+      "nome": "Esportes e Lazer",
+      "subcategorias": ["Roupas esportivas", "Calçados esportivos", "Equipamentos esportivos", "Bicicletas", "Camping e aventura"]
+    },
+    {
+      "nome": "Alimentos e Bebidas",
+      "subcategorias": ["Gourmet", "Orgânicos", "Vinhos", "Destilados", "Cafés", "Chás"]
+    },
+    {
+      "nome": "Pet Shop",
+      "subcategorias": ["Ração", "Petiscos", "Brinquedos para pets", "Higiene animal", "Saúde animal"]
+    },
+    {
+      "nome": "Automotivo",
+      "subcategorias": ["Peças", "Acessórios", "Som automotivo", "Segurança veicular"]
+    },
+    {
+      "nome": "Livros e Papelaria",
+      "subcategorias": ["Livros físicos", "E-books", "Material escolar", "Escritório"]
+    },
+    {
+      "nome": "Brinquedos e Jogos",
+      "subcategorias": ["Brinquedos educativos", "Brinquedos eletrônicos", "Jogos de tabuleiro", "Videogames", "Acessórios para jogos"]
+    },
+    {
+      "nome": "Construção e Ferramentas",
+      "subcategorias": ["Materiais de construção", "Ferramentas manuais", "Ferramentas elétricas", "Equipamentos de proteção"]
+    }
+  ]
+}
